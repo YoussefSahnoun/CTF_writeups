@@ -1,0 +1,4 @@
+
+import base64
+ct="TlJTWE1aTE1NVlRHTVpMRE9SNVhJNTNQTDUyRzZYM1VOQlNWNlpUSk9aU1Y2NURYTjVQWEkzMjdPUlVHS1gzVE5GNEgyPT09"
+print(base64.b32decode(base64.b64decode(ct)))

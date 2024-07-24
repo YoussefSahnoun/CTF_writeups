@@ -1,0 +1,1 @@
+ssh -i p3.private.key\?token=eyJ1c2VyX2lkIjoxNDIzLCJ0ZWFtX2lkIjpudWxsLCJmaWxlX2lkIjo0N30.Zo_TFA.xCll4rIScbV9VXvEJwahIrDOf0U  -L 8888:localhost:8888 tunneler@0.cloud.chals.io -p 27141
